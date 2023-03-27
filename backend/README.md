@@ -41,10 +41,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório pelo terminal/bash
-$ git clone https://github.com/wdwf/
+$ git clone https://github.com/wdwf/Teste_Fullstack.git
 
 # Acesse a pasta do projeto
-$ cd 
+$ cd Teste_Fullstack
 
 # Instale as dependências
 $ npm install
