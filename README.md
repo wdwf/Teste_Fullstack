@@ -44,7 +44,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/wdwf/Teste_Fullstack.git
 
 # Acesse a pasta do projeto
-$ cd Teste_Fullstack
+$ cd Teste_Fullstack/backend
 
 # Instale as dependências
 $ npm install
